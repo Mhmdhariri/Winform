@@ -1,0 +1,5 @@
+C:\Winform\published\WinFormsApp1.exe
+C:\Winform\published\WinFormsApp1.dll
+C:\Winform\published\WinFormsApp1.deps.json
+C:\Winform\published\WinFormsApp1.runtimeconfig.json
+C:\Winform\published\WinFormsApp1.pdb
